@@ -2,7 +2,7 @@
 
 A **React (Vite + TypeScript + MapLibre GL) + Django (DRF)** web application that helps a truck driver pick the safest route between an origin and destination based on **arrival-time weather forecasts, load weight rules, and travel time**.
 
-> Dedicated module guides: **[Backend README](backend/README.md)** · **[Frontend README](frontend/README.md)** · **[Loom Presenter Script](docs/loom-walkthrough.md)**
+> Dedicated module guides: **[Backend README](backend/README.md)** · **[Frontend README](frontend/README.md)** · 
 
 ---
 
@@ -133,7 +133,6 @@ frontend/
     utils/              heatmap.ts (49-frame rasterizer), mapLayers.ts (GeoJSON builders)
 docs/
   brief.pdf             Original assignment specification
-  loom-walkthrough.md   Internal presenter recording script (for recording your Loom video)
 ```
 
 ### Local Development

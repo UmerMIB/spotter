@@ -17,7 +17,7 @@ This is a take-home assessment for Spotter (Full Stack Developer). The source br
 5. Show all routes, checkpoints, risk levels, ETAs and route summaries on a map.
 6. Show a **weather heatmap along the trip corridor** with a **0–48 hour forecast slider**.
 
-**Deliverables:** GitHub repo, hosted app, 5–10 min Loom walkthrough.
+**Deliverables:** GitHub repo, hosted app.
 
 **Evaluation weights:** keep these in mind when deciding where to spend effort.
 | Weight | Area |
